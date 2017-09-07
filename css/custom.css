@@ -1,0 +1,41 @@
+h1, h2, h3, h4 {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:active {
+    color: #333;
+    text-decoration: none;
+}
+
+.page-header {
+    background-color: #333;
+    color: #ffffff;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-footer {
+    background-color: #eee;
+    color: #aaa;
+    margin-top: 80;
+    padding: 20px 20px 80px 40px;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.light {
+    font-weight: 300;
+}
